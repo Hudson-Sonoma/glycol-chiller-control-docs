@@ -10,3 +10,6 @@ Control Panel
 Modifications
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/20520978/165813980-018bc76c-6396-476f-86da-64ba88399fc0.png">
 
+## Hardware
+* Sonoff MINI R2, or the Sonoff 4CHPROR3
+* Relay - Phoenix Contact RELAY GEN PURPOSE DPDT 8A 230V 

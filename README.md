@@ -1,7 +1,7 @@
 # glycol-chiller-control-docs
 Notes on adding IoT control to glycol chillers
 
-# Chiller Type D&G Chiller Coolwine 3 Ton Portable
+# Chiller Type G&D Chiller Coolwine 3 Ton Portable
 ![image](https://user-images.githubusercontent.com/20520978/165813427-b0ad34f4-8782-465e-b72d-ccdabe35f2a8.png)
 
 Control Panel
